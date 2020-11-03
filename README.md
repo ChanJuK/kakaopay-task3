@@ -1,4 +1,4 @@
-# 카카오페이 사전과제 3 - 지자체 협약 지원 API 개발
+# 지자체 협약 지원 API 개발
 ## 목차
 - [개발 환경](#개발-환경)
 - [빌드 및 실행하기](#빌드-및-실행하기)
@@ -156,7 +156,7 @@ POST /file/upload HTTP/1.1
 
 ```json
 {
-    "fileName": "사전과제3.csv",
+    "fileName": "사전과제3.csv",
     "contentType": "text/csv",
     "size": 8889
 }
